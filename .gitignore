@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+chroma_db/
+.chromadb/
+
+.streamlit/secrets.toml
+
+.DS_Store
+Thumbs.db

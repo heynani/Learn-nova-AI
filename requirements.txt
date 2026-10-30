@@ -1,0 +1,4 @@
+streamlit
+ollama
+chromadb
+pypdf>=3.4
